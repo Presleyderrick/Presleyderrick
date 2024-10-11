@@ -1,4 +1,4 @@
-[# 💫 About Me:
+# 💫 About Me:
 Hi there! 👋<br>I'm a passionate software developer with 3 years of experience. Here’s a bit more about me:<br><br>🔭 I’m currently working on: Projects involving React Native, TypeScript, Node.js, and Yup/Formik for seamless form validation<br><br>👯 I’m looking to collaborate on: Innovative projects that bridge the gap between frontend and backend, focusing on scalability and performance<br><br>🤝 I’m looking for help with: Advanced backend optimizations and integrating open-source tools for monitoring system performance<br><br>🌱 I’m currently learning: Advanced backend techniques and exploring new open-source tools for improved network traffic monitoring<br><br>💬 Ask me about: My experience with React Native, TypeScript, and form validation with Yup/Formik, or how I blend fun and learning while teaching Bible memory verses to a 5-year-old<br><br>⚡ Fun fact: I teach a 5-year-old Bible memory verses, blending fun and learning in a unique way! 🎉<br><br>Feel free to check out my repositories and get in touch—let's build something awesome together!
 
 
